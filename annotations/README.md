@@ -1,5 +1,5 @@
 # Introduction
-This is annotation for the NOD dataset from our paper _GenISP: Neural ISP for Low-Light Machine Cognition_, CPRR NTIRE Workshop 2022
+This is annotation for the RAW-NOD dataset from our paper _GenISP: Neural ISP for Low-Light Machine Cognition_, CPRR NTIRE Workshop 2022
 COCO-style annotation. We provide:
 * COCO-style annotation for the whole dataset and for each camera subset separately (for RAW and RAWPY JPEG images).
 
